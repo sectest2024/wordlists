@@ -1,3 +1,4 @@
+/actuator/gateway/routes
 /ReportServer?op=resource&resource=../../WEBINF/resources/privilege.xml&i18n=true
 /nacos
 /actuator/nacos-config
